@@ -7,7 +7,8 @@
 
 <h3> Page login in Mobile </h3>
 
-<p> Adicionar o gif aqui </p>
+![Design sem nome](https://user-images.githubusercontent.com/63684101/187004768-d70e57c2-2722-4592-819d-f5279b5a582f.gif)
+
 
 <h3> Page Register in Desktop </h3>
 
@@ -15,5 +16,6 @@
 
 <h3> Page Register in Mobile </h3>
 
-<p> Adicionar o gif aqui </p>
+![Design sem nome (1)](https://user-images.githubusercontent.com/63684101/187004818-793ba812-91ad-4e68-9f6f-dfb0f924dd05.gif)
+
 
